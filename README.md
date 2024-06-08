@@ -1,1 +1,1 @@
-# SQS_ETL
+# AWS SQS Data Pipeline to PostgreSQL
